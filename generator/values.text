@@ -1,0 +1,13 @@
+You need this info
+
+EMPLOYEE_NAME
+POSITION_NAME
+OFFICE_PHONE
+CELL_PHONE
+MEETING_URL
+LINKED_IN_PLACEHOLDER
+EMAIL_PLACEHOLER - > this value is the prefix to the email i.e. jbonetti
+
+Copy the ../tempaltes/Base.html file.
+Rename to emaloyeeName.file.
+Use find and replace ALL, ont file for the above values. There are some that used more than once
